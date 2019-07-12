@@ -1,4 +1,4 @@
-# Face generation in Tensorflow using GAN
+# Face Generation Project for Udacity Deep Learning Nanodegree
 
 ## Prerequisites
 
