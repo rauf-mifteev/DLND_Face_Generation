@@ -1,5 +1,8 @@
 # Face Generation Project for Udacity Deep Learning Nanodegree
 
+## Project Overview
+This is Face Generation Project for Udacity Deep Learning Nanodegree. In this project I use **Generative Adversarial Networks** (GAN's) to generate new images of faces using MNIST and CelebA databases. 
+
 ## Prerequisites
 
 The code is **Python** in a **Jupyter Notebook** and it uses:
